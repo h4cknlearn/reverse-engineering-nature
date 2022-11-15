@@ -9,6 +9,11 @@
 ### reversing
 [reversing biontech/pfizer](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)<br>
 [hacking nature - part1](https://www.youtube.com/watch?v=8vWaawiUteM)<br>
+[hacking nature - part2](https://www.youtube.com/watch?v=StGm-m1EUgk)<br>
+[hacking nature - part3](https://www.youtube.com/watch?v=xRW_t7XAenk)<br>
+[hacking nature - part4](https://www.youtube.com/watch?v=w-9i3hxmBso)<br>
+[hacking nature - part5](https://www.youtube.com/watch?v=KFvb_mluq8Y)<br>
+[hacking nature - part6](https://www.youtube.com/watch?v=V7NkS6j-XWg)
 
 
 ### programming 
