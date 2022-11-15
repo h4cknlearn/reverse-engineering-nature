@@ -1,6 +1,6 @@
 # reverse-engineering-nature
 *my fav material of all times*<br>
-*science and hacking, baby*
+*science and reversing, baby*
 
 ### main()
 [DNA through the eyes of a coder](https://berthub.eu/articles/posts/amazing-dna/)<br>
